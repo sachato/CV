@@ -88,12 +88,3 @@ Développeur Backend avec 5 ans d'expérience en alternance, spécialisé dans l
 - **Communauté** : Participation à des événements tech et partage de connaissances
 - **Projets personnels** : Exploration de nouvelles technologies et expérimentations
 
----
-
-## **CONSEILS POUR FINALISER VOTRE CV**
-
-1. **Complétez les coordonnées** : Ajoutez votre email professionnel, numéro de téléphone, et liens LinkedIn/GitHub
-2. **Personnalisez selon l'offre** : Adaptez les compétences mises en avant selon le poste visé
-3. **Ajoutez des chiffres** : Si possible, quantifiez vos réalisations (ex: "réduction de 30% du temps de traitement")
-4. **Format PDF** : Exportez ce Markdown en PDF pour un rendu professionnel
-5. **Vérifiez les liens** : Assurez-vous que vos profils LinkedIn et GitHub sont à jour
